@@ -1,0 +1,10 @@
+.first{
+    color: blue;
+}
+
+#second{
+    border: 2px double pink;
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
